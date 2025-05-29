@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\ДАНИИЛ\универ\2 курс\архитектура ОС\5 лаба\5_lab\Source.cpp(48,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\ДАНИИЛ\универ\2 курс\архитектура ОС\5 лаба\5_lab\Source.cpp(53,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\ДАНИИЛ\универ\2 курс\архитектура ОС\5 лаба\5_lab\Source.cpp(118,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\ДАНИИЛ\универ\2 курс\архитектура ОС\5 лаба\5_lab\Source.cpp(122,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  5_lab.vcxproj -> C:\ДАНИИЛ\универ\2 курс\архитектура ОС\5 лаба\5_lab\x64\Debug\5_lab.exe
